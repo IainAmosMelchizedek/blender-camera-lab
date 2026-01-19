@@ -1,6 +1,6 @@
 # blender-camera-lab
 
-A beginner-friendly Blender 4.x Python lab focused on camera control, lens configuration,
+A beginner-friendly Blender 4.0 Python lab focused on camera control, lens configuration,
 constraints, and orbital animation using only scripting.
 
 ## Requirements
